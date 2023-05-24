@@ -1,7 +1,12 @@
 .holder{
+    width: 100vw;
+    height: 100vh;
     display: flex;
     justify-content: center;
-	flex-wrap:wrap;
-    height: 100px;
     align-items: center;
-}
+ }
+ .item{
+    width: 100px;
+    height: 100px;
+ }
+ 
